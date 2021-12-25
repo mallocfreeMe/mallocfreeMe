@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mallocfreeMe
-- 👀 I’m interested in game design 
-- 🌱 I’m currently learning level design
+- 👀 I’m interested in video games, coding... 
+- 🌱 I’m currently work as a level designer in a game company
 - 💞️ I’m looking to collaborate on all kinds of game projects
 
 <!---
